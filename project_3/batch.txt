@@ -1,0 +1,5 @@
+ls
+pwd
+echo "Hello from batch mode"
+echo "Batch mode test" > batch_output.txt
+cat batch_output.txt
