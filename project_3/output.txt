@@ -1,6 +1,0 @@
-batch.txt
-batch_output.txt
-output.txt
-r.txt
-wish
-wish.c
